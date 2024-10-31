@@ -1,2 +1,3 @@
 ## <p align="center"> <img src="https://play-lh.googleusercontent.com/2MCCCXpwDRy6s8Iy-hblQckeREEXcPxrK1W9Z1oCGrtsOF5QF3rAigOTUG4syepsx6s=w240-h480-rw" width="100" height="100" /> <br>That Level Again <br> ![eShop Stars](https://img.shields.io/badge/%E2%AD%90-0.0-lightgrey)
-<p align="center">In your eShop games not available TLA.
+
+<img align="center" width="100" height="20" src="https://img.shields.io/badge/buy-99%2C00%20RUB-yellow">
